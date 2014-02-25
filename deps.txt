@@ -1,0 +1,6 @@
+Twisted-10.1.0
+distribute-0.6.10
+pip-0.8.1
+pyasn1-0.0.11a
+pysnmp-4.1.14a
+zope.interface-3.6.1

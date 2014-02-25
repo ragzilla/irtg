@@ -1,0 +1,4 @@
+./entity/rfc3413/twisted/cmdgen.py - HAS BEEN MODIFIED
+USE http://pysnmp.cvs.sourceforge.net/viewvc/pysnmp/pysnmp/pysnmp/entity/rfc3413/twisted/cmdgen.py?revision=1.2&content-type=text/plain
+
+(or newer)
